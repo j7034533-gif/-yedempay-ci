@@ -1,0 +1,1 @@
+export function Logo(){return <div className="flex items-center gap-2"><div className="grid h-9 w-9 place-items-center rounded-xl bg-blue-600 font-black text-white">Y</div><div><div className="font-bold leading-none">YedemPay <span className="text-orange-500">CI</span></div><div className="text-[10px] text-slate-500">Paiements scolaires</div></div></div>}
